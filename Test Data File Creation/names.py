@@ -209,9 +209,3 @@ lastnames = [
 # print("There are ", len(lastnames), " in the last/family name lists.")
 # print("There are ", len(firstnames), "firstnames")
 # print(len(lastnames) + len(firstnames), " total names.")
-'''
-    Instructions for adding the name
-    - Paste into Word if it needs processing (removing line breaks and characters)
-    - Familyeducation has a bunch more names, stopped on the first page of "A" 
-    - Paste into a print("".split(" ")) <--- Split up the names and paste the list into the lists above 
-'''
